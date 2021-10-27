@@ -1,2 +1,2 @@
 # BDA10
-Repository for CAS BDA10 Lecturers and Participants @HSLU
+Repository for Lecturers and Participants of the Certificate Course Big Data Analytics (BDA10) at HSLU
